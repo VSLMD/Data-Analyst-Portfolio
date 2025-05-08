@@ -1,0 +1,3 @@
+Bonjour, 
+L'export en fichier excel résulte toujours avec des pertes de données, ci-joint le lien GSheet :
+https://docs.google.com/spreadsheets/d/1xZcCPSmbsL6oVGmxITm1qlpCgzhGW_yC/edit?usp=sharing&ouid=110250787623197729981&rtpof=true&sd=true
