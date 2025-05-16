@@ -1,11 +1,11 @@
 # Portfolio Data Analyst
 
 
-Bienvenue sur mon portfolio de Data Analyst. Ce dépôt présente les différents projets que j'ai réalisés dans le cadre de ma formation avec OpenClassrooms. Ces projets couvrent plusieurs aspects clés du métier, m'aynt permis de développer des compétences solides et concrètes pour réussir dans le monde professionnel de la data.
+Bienvenue sur mon portfolio de Data Analyst. Ce dépôt présente les différents projets que j'ai réalisés dans le cadre de ma formation avec OpenClassrooms. Ces projets couvrent plusieurs aspects clés du métier, m'ayant permis de développer des compétences solides et concrètes pour réussir dans le monde professionnel de la data.
 
 Les projets incluent l'analyse de données, la visualisation, la manipulation de bases de données, et l'utilisation d'outils comme Python, SQL, Excel et Power BI.
 
-Vous trouverez ci-dessous un aperçu des projets ainsi que les compétences mises en œuvre. Les livrables relatifs au projets sont accessibles via les liens en titre des projets.
+Vous trouverez ci-dessous un aperçu des projets ainsi que les compétences mises en œuvre. Les livrables relatifs aux projets sont accessibles via les liens en titre des projets.
 
 ## Table des matières
 
@@ -27,7 +27,7 @@ Ce premier projet m'a permis de faire mes premiers pas en data visualisation et 
 Le scénario : Dans une entreprise de grande distribution, je suis en charge du rapport mensuel des actions marketing afin de fournir une première analyse des chiffres du mois précédent.
 
 Compétences : 
-- Concevoir des graphiques en prenant en compte les bonnes pratiques d'acessibilité
+- Concevoir des graphiques en prenant en compte les bonnes pratiques d'accessibilité
 - Proposer un récit des résultats lors d'une présentation dynamique
 
 ## [Requête de base de données avec SQL](https://github.com/VSLMD/Data-Analyst-Portfolio/tree/main/Requetez%20une%20base%20de%20donnees%20avec%20sql)
@@ -54,7 +54,7 @@ Compétences :
 ## [Créer une base de données immobilière avec SQL](https://github.com/VSLMD/Data-Analyst-Portfolio/tree/main/Creez%20et%20utilisez%20une%20base%20de%20donnees%20immobiliere%20avec%20sql)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-Le scénario : en tant que data analyst dans un réseau national d'agences immobilière, il m'a été confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Je me suis servi ensuite de cette base pour analyser le marché et aider les agences régionales à mieux accompagner leurs clients.  
+Le scénario : en tant que data analyst dans un réseau national d'agences immobilières, il m'a été confié la modification de la base de données permettant de collecter les transactions immobilières et foncières en France. Je me suis servi ensuite de cette base pour analyser le marché et aider les agences régionales à mieux accompagner leurs clients.  
 
 Compétences :  
 - Créer une base de données en respect des normes réglementaires et des besoins clients
@@ -91,8 +91,8 @@ Le scénario : Je suis en charge d'automatiser la création d'un rapport sur l'�
 
 Compétences : 
 - Agrégation des extractions de données en définissant les règles de nettoyage
-- Collecte des données pertinentes en respect des normes et bonnes pratiques
-- Vérification la cohérence et la fiabilité des données préparées
+- Collecte des données pertinentes dans le respect des normes et bonnes pratiques
+- Vérification de la cohérence et la fiabilité des données préparées
 
 ## [Analyser les ventes d'une librairie avec Python](https://github.com/VSLMD/Data-Analyst-Portfolio/tree/main/Analysez%20les%20ventes%20d%20une%20librairie%20avec%20r%20ou%20python)
 ![Skills](https://skillicons.dev/icons?i=python)
