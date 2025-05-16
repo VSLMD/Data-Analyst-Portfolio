@@ -116,7 +116,7 @@ Compétences :
 - Optimiser une solution de visualisation accessible, adaptée au public et au type de donnée
 - Créer un tableau de bord interactif pour rendre la visualisation disponible et accessible
 
-! [Screenshot](https://github.com/VSLMD/Data-Analyst-Portfolio/blob/main/Screenshots/Projet%20personnel.png)
+![Screenshot](https://github.com/VSLMD/Data-Analyst-Portfolio/blob/main/Screenshots/Projet%20personnel.png)
 
 ## [Produire une étude de marché avec Python](https://github.com/VSLMD/Data-Analyst-Portfolio/tree/main/Produisez%20une%20etude%20de%20marche%20avec%20r%20ou%20python)
 ![Skills](https://skillicons.dev/icons?i=python)
@@ -137,3 +137,4 @@ Le scénario : l'entreprise pour laquelle je travaille vise un contrat avec l'or
 Compétences :
 - Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène
 - Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle
+
