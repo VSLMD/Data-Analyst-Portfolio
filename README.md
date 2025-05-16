@@ -84,6 +84,8 @@ Compétences :
 - Développement de visualisations
 - Production d'un reporting en analysant les visualisations pour faciliter les décisions
 
+![Screenshot](https://github.com/VSLMD/Data-Analyst-Portfolio/blob/main/Screenshots/Cr%C3%A9er%20un%20tableau%20de%20bord%20dynamique%20avec%20Power%20BI%20pour%20visualiser%20l'avancement%20de%20projets.png)
+
 ## [Analyser les indicateurs de l'égalité femmes/hommes en respect du RGPD](https://github.com/VSLMD/Data-Analyst-Portfolio/tree/main/Analysez%20des%20indicateurs%20de%20l%20egalite%20femmes%20hommes%20en%20respect%20du%20rgpd)
 ![KNIME](https://img.shields.io/badge/KNIME-FFD800?style=for-the-badge&logoColor=black)
 
