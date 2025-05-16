@@ -5,6 +5,8 @@ Bienvenue sur mon portfolio de Data Analyst. Ce dépôt présente les différent
 
 Les projets incluent l'analyse de données, la visualisation, la manipulation de bases de données, et l'utilisation d'outils comme Python, SQL, Excel et Power BI.
 
+![Screenshot](https://github.com/VSLMD/Data-Analyst-Portfolio/blob/main/Screenshots/profil.png)
+
 Vous trouverez ci-dessous un aperçu des projets ainsi que les compétences mises en œuvre. Les livrables relatifs aux projets sont accessibles via les liens en titre des projets.
 
 ## Table des matières
