@@ -22,6 +22,7 @@ Vous trouverez ci-dessous un aperçu des projets ainsi que les compétences mise
 - [Projet Personnel: faire une étude sur les émissions de CO2 et gaz à effet de serre](#projet-personnel-faire-une-étude-sur-les-émissions-de-co2-et-gaz-à-effet-de-serre)
 - [Produire une étude de marché avec Python](#produire-une-étude-de-marché-avec-python)
 - [Détecter des faux billets avec Python](#détecter-des-faux-billets-avec-python)
+- [Créer un portfolio de professionnel de la Data](#réaliser-un-portfolio-de-professionnel-de-la-data)
 
 ## [Analyse de ventes pour un  e commerce](https://github.com/VSLMD/Data-Analyst-Portfolio/tree/main/Faites%20une%20analyse%20de%20ventes%20pour%20un%20ecommerce)
 Ce premier projet m'a permis de faire mes premiers pas en data visualisation et à m'initier au storytelling.  
@@ -139,4 +140,19 @@ Le scénario : l'entreprise pour laquelle je travaille vise un contrat avec l'or
 Compétences :
 - Utiliser un modèle d'apprentissage supervisé pour réaliser une prédiction d'un phénomène
 - Entraîner un modèle d'apprentissage non supervisé pour exploiter le modèle
+
+## [Réaliser un portfolio de professionnel de la data](https://github.com/VSLMD/Data-Analyst-Portfolio/tree/main/Cr%C3%A9er%20un%20portfolio%20de%20professionel%20de%20la%20data)
+![Power BI](https://img.icons8.com/color/48/000000/power-bi.png)  
+
+Le scénario : Aéroworld, une grande entreprise de l'aéronautique française, est à la recherche d'un Chef de projet Data Analyst. Pour postuler, je dois produire différents livrables qui démontrent les compétences acquises au long de mon parcours.
+
+Ces livrables montrent que je suis capable de :  
+- Accompagner les équipes sur la prise en main des outils
+- Adapter sa posture de professionnel en se positionnant comme consultant
+- Effectuer une veille métier et technologique
+- Expérimenter de nouvelles méthodes d'analyse de données à travers des recherches
+- Formaliser les procédures de documentation pour assurer une gestion fiable
+- Formaliser un cahier des charges fonctionnel pour cadrer les besoins et les solutions
+- Identifier les besoins métier en intégrant les différentes contraintes
+- Organiser un projet d'analyse data grâce à des outils de gestion de projet
 
